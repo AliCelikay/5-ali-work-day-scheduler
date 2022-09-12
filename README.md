@@ -1,5 +1,1 @@
-This challenge is supposed to store the data written in the text box and save it into localStorage to be used for next time website is opened.
-You can save and unsave the user input by clicking the botton on the final column of each row.
-The textboxes are also supposed to turn green, red, or grey depending on the current real time.
-
-I will keep working on this homework.
+This code allows user to plan out his workday by placing to do tasks inside the text area. The user is able to save the to do inside the text area in order to open again for next time. The text area also turns green, grey, or red depending on the future, past, or present time hour.
